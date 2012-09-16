@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDiv IDE", "NewDiv IDE\NewDiv IDE.csproj", "{A204051E-277E-471F-913D-733A4ED519AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDiv Compiler", "NewDiv Compiler\NewDiv Compiler.csproj", "{05671900-DDCA-436D-8709-BBA190F2A2F6}"
